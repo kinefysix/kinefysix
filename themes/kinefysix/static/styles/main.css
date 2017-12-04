@@ -1,0 +1,81 @@
+body {
+    background-color: #1d2128;
+}
+
+.homepage {
+    overflow-y: scroll;
+    position: relative;
+    height: 100%;
+}
+
+.primary {
+    color: #5ad35a;
+}
+
+.logo {
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0px;
+}
+
+#navigation {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.carousel-main {
+    overflow: hidden;
+    max-height: 600px;
+    /*margin-top: 65px;*/
+}
+
+.carousel-main .carousel-caption {
+    top: 250px;
+    bottom: auto;
+}
+
+.carousel-main .carousel-control-next-icon, .carousel-main .carousel-control-prev-icon {
+    width: 100px;
+    height: 100px;
+}
+
+.quote {
+    width: 100%;
+    padding: 20px 0;
+    background-color: #374054;
+    text-align: center;
+    color: white;
+}
+
+h1, h2, h3, h4, h5, p, li, label {
+    color: white;
+
+}
+
+li {
+    list-style: none;
+    line-height: 35px;
+}
+
+.services {
+    font-size: 20px;
+}
+
+.highlight {
+    background-color: #374054;
+}
+
+.icon {
+    background: green;
+    padding: 10px 12px;
+    display: inline-block;
+    border-radius: 50px;
+}
+
+.section-title {
+    font-weight: 100;
+}
+
+.section-title b {
+    font-weight: 700;
+}

@@ -1,7 +1,7 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+title = "Kinesfysix"
+baseURL = "http://kinefysix.be"
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
+theme = "kinefysix"
 
 
 MetaDataFormat = "yaml"
@@ -17,7 +17,6 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
   twitter = "https://twitter.com/GoHugoIO"

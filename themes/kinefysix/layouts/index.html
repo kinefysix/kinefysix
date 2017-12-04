@@ -1,0 +1,98 @@
+{{ define "main" }}
+
+{{ partial "carousel-main.html" . }}
+
+<div class="quote">
+    <span>"Gezondheid is niet alles! Alles is niets zonder gezondheid!"</span>
+</div>
+
+
+<div class="container pt-5 pb-5">
+    <div class="col text-center pb-5"><h1 id="watdoenwe" class="section-title"><b>Kinesitherapie</b> &amp; Manuele therapie</h1></div>
+    <div class="row services">
+        <div class="col-md-6">
+            <div class="row">
+                <div class="col-md-12">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                </div>
+                <ul class="col-md-6">
+                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Algemene kinestherapie</li>
+                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Pre- en postoperatieve</li>
+                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Reconditionering</li>
+                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Onderhoudskinesitherapie</li>
+                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Manuele therapie</li>
+                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Rug en nekrevalidatie</li>
+                </ul>
+                <ul class="col-md-6">
+                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Manuele lymfedrainage</li>
+                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Dry needling</li>
+                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Sportrevalidatie</li>
+                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Shockwave</li>
+                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Cupping</li>
+                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Sport- en kinesiotaping</li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-6">
+            {{ partial "carousel-business.html" . }}
+        </div>
+    </div>
+</div>
+
+
+<div class="highlight pt-5 pb-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center pb-5"><h1 id="overons" class="section-title"><b>Wie</b> zijn wij</h1></div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6 text-center">
+                <img class="rounded-circle mb-3" src="images/profile.png" alt="Generic placeholder image" width="140" height="140">
+                <h2>Tom Schrooten</h2>
+                <p><span class="fa fa-phone icon mr-2"></span> <span class="text-success">0472 69 23 17</span></p>
+                <p>Zelf sta ik vooral in voor behandeling van chronische patiënten, reactivering, Preventie van sportletsels, trainingsbegeleiding
+                    en het geven van advies en voorlichting (bv. over overtraining, trainingsschema's). Door mijn diploma van Fitnessdeskundige en
+                    mijn meer dan 20 jarige ervaring in zowel de kiné als de sport en fitnessbranche heb ik hiervoor de juiste feeling kunnen
+                    ontwikkelen naar ieders trainingsniveau.</p>
+
+            </div>
+
+            <div class="col-lg-6 text-center">
+                <img class="rounded-circle mb-3" src="images/profile.png" alt="Generic placeholder image" width="140" height="140">
+                <h2>Katrien Van Damme</h2>
+                <p><span class="fa fa-phone icon mr-2"></span> <span class="text-success">0468 41 09 89</span></p>
+                <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus
+                    sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="container pt-5 pb-5">
+    <div class="row">
+        <div class="col text-center pb-5"><h1 id="contact" class="section-title"><b>Contacteer</b> ons</h1></div>
+    </div>
+    <div class="row">
+        <div class="col pt-4">
+            <p>Heb je vragen over een therapie of wil je afspraak maken, aarzel dan niet om contact op te nemen, we helpen je graag verder.</p>
+
+            <p>
+                <span class="fa fa-location-arrow icon mr-2"></span><b>Adres:</b> Molenweg 41, 3520 Zonhoven
+            </p>
+            <p>
+                <span class="fa fa-envelope icon mr-2"></span><b>Email:</b> <a class="text-success"
+                                                                               href="mailto:info@kinefysix.be">info@kinefysix.be</a>
+            </p>
+        </div>
+        <div class="col">
+            {{ partial "contact-form.html" . }}
+        </div>
+    </div>
+</div>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2935.059709918184!2d5.4053959513782495!3d50.98922407071818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8156d29afc43ff88!2sVictory+Gym!5e0!3m2!1sen!2sbe!4v1512333737615"
+        width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+{{ end }}
