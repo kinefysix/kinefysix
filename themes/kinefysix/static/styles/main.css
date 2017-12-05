@@ -18,10 +18,26 @@ body {
     margin: 0px;
 }
 
-#navigation {
-    padding-top: 5px;
-    padding-bottom: 5px;
+@media (min-width: 768px) {
+
+    #navigation {
+        padding-top: 0px;
+        padding-bottom: 5px;
+        position: absolute;
+        top: 0px;
+        z-index: 1000;
+        left: 0;
+        right: 0;
+    }
+
+    #navigation .container {
+        background: #374052;
+        border-radius: 0 0 6px 6px;
+    }
+
 }
+
+
 
 .carousel-main {
     overflow: hidden;
@@ -78,4 +94,17 @@ li {
 
 .section-title b {
     font-weight: 700;
+}
+
+
+.pill {
+    border: 2px solid green;
+    background: none;
+    padding: 4px 9px;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 50px;
+    margin: 5px 0;
+    display: inline-block;
+    color: green;
 }
