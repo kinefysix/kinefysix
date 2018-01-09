@@ -74,7 +74,33 @@ li {
 }
 
 .services {
-    font-size: 20px;
+    font-size: 24px;
+
+}
+
+.service {
+    position: relative;
+    height: 240px;
+    overflow: hidden;
+    display: block;
+}
+
+.service img {
+    min-width: 100%;
+}
+
+.service .service-title {
+    background: black;
+    position: absolute;
+    width: 100%;
+    bottom: 20px;
+    text-align: center;
+    padding: 10px;
+}
+
+.service .service-title p {
+    margin: 0;
+    line-height: 30px;
 }
 
 .highlight {
@@ -90,6 +116,10 @@ li {
 
 .section-title {
     font-weight: 100;
+}
+
+a, a:active, a:focus, a:hover {
+    color: green;
 }
 
 .section-title b {
@@ -108,3 +138,55 @@ li {
     display: inline-block;
     color: green;
 }
+
+.featured-image-container {
+    z-index: 0;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 300px;
+    overflow: hidden;
+}
+
+.featured-image {
+    width: 100%;
+    height: auto;
+}
+
+.card-min-height {
+    min-height: 150px;
+}
+
+.floating-header {
+    margin-top: -100px;
+    margin-bottom: 20px;
+}
+
+.single-page-content .content {
+    float: left;
+}
+
+.single-page-content .content-image {
+    max-width: 300px;
+    padding: 6px;
+    border: 1px solid #374051;
+    border-radius: 3px;
+    background: #1d2229;
+    margin-left: 20px;
+}
+
+#overons ul {
+    text-align: left;
+}
+
+#overons ul li {
+    list-style: initial;
+}
+
+
+@media (min-width: 768px) {
+    #overons ul {
+        padding-left: 100px;
+    }
+}
+

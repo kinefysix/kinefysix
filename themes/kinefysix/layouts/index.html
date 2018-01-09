@@ -8,47 +8,41 @@
 
 
 <div class="container pt-5 pb-5">
-    <div class="col-md-12 text-center pb-5"><h1 id="watdoenwe" class="section-title"><b>Kinesitherapie</b> &amp; Manuele therapie</h1></div>
-    <div class="col-md-12">
-        <p>Zelf ben ik Fysix opgestart om vanuit de kinésitherpie de mensen actief beter te maken. Met onze bijhorende fitness en oefenzaal beschikken we daarom over een uitgelezen accommodatie om de juiste oefentherapie voor iedere aandoening te kunnen toepassen.
-            kinéfysix biedt door de steeds bijscholende kinesiten een gespecialiseerde en geactualiseerde kinesitherapie en preventie aan in een nieuwe praktijk met moderne apparatuur. 
-            Onze praktijk staat centraal dat de patiënt 'actief' meewerkt aan zijn herstel. Dit omvat vooral medische training of oefentherapie na orthopedische ingrepen, sportblessures en na manuele therapie.
-        </p>
-    </div>
-    <div class="row services">
-        <div class="col-md-6 mt-5">
-            <div class="row">
-                <ul class="col-md-6">
-                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Algemene kinestherapie</li>
-                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Pre- en postoperatieve</li>
-                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Reconditionering</li>
-                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Onderhoudskinesitherapie</li>
-                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Manuele therapie</li>
-                </ul>
-                <ul class="col-md-6">
-                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Rug en nekrevalidatie</li>
-                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Manuele lymfedrainage</li>
-                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Sportrevalidatie</li>
-                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Shockwave</li>
-                    <li class="text-success"><i class="fa fa-check-circle mr-2"></i>Sport- en kinesiotaping</li>
-                </ul>
-            </div>
+    <div class="row">
+        <div class="col-md-12 text-center pb-5"><h1 id="watdoenwe" class="section-title"><b>Kinesitherapie</b> &amp; Manuele therapie</h1></div>
+        <div class="col-md-6">
+            <p>
+                {{ .Content }}
+            </p>
         </div>
         <div class="col-md-6">
             {{ partial "carousel-business.html" . }}
         </div>
     </div>
+    <br>
+    <div class="row services mt-5" id="specialisaties">
+        {{ range where .Site.RegularPages.ByWeight "Section" "specialisaties" }}
+        <div class="col-md-4 mb-3 pr-0">
+            <a class="service" href="{{ .URL }}">
+                <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                <div class="service-title">
+                    <p class="text-success"><i class="fa fa-check-circle mr-2"></i>{{ .Title}}</p>
+                </div>
+            </a>
+        </div>
+        {{ end }}
+    </div>
 </div>
 
 
-<div class="highlight pt-5 pb-5">
+<div class="highlight pt-5 pb-5" id="overons">
     <div class="container">
         <div class="row">
-            <div class="col text-center pb-5"><h1 id="overons" class="section-title"><b>Wie</b> zijn wij</h1></div>
+            <div class="col text-center pb-5"><h1 class="section-title"><b>Wie</b> zijn wij</h1></div>
         </div>
         <div class="row">
             <div class="col-lg-6 text-center">
-                <img class="rounded-circle mb-3" src="images/profile.png" alt="Generic placeholder image" width="140" height="140">
+                <img class="rounded-circle mb-3" src="images/tom-schrooten.jpg" alt="Generic placeholder image" width="220" height="220">
                 <h2>Tom Schrooten</h2>
                 <p><span class="fa fa-phone icon mr-2"></span> <span class="text-success">0472 69 23 17</span></p>
                 <p>Zelf sta ik vooral in voor behandeling van chronische patiënten, reactivering, Preventie van sportletsels, trainingsbegeleiding
@@ -59,18 +53,16 @@
             </div>
 
             <div class="col-lg-6 text-center">
-                <img class="rounded-circle mb-3" src="images/profile.png" alt="Generic placeholder image" width="140" height="140">
+                <img class="rounded-circle mb-3" src="images/katrien.jpg" alt="Generic placeholder image" width="220" height="220">
                 <h2>Katrien Van Damme</h2>
                 <p><span class="fa fa-phone icon mr-2"></span> <span class="text-success">0468 41 09 89</span></p>
-                <p>Als manueel therapeute en sportkinesitherapeute geloof ik sterk in de meerwaarde van een functionele actieve revalidatie. Uit
-                    wetenschappelijk onderzoek blijkt dat vooral actieve therapie, in tegenstelling tot de toepassing van enkel passieve
-                    behandelingsvormen, zorgt voor herstel van de meeste musculoskeletale aandoeningen. Naast de nodige manuele behandelingstechnieken
-                    ter verhoging van de gewrichtsmobiliteit wordt, door het uitvoeren van actieve oefenvormen, gewerkt naar herstel en toename in
-                    belastbaarheid van het lichaam.</p>
-                <span class="pill">Postgraduaat in de Manuele Therapie (KUL)</span>
-                <span class="pill">Master in de Revalidatiewetenschappen & Kinesitherapie (Uhasselt)</span>
-                <span class="pill">Master in de Lichamelijke Opvoeding (VUB)</span>
-
+                <ul>
+                    <li>Master in de Lichamelijke Opvoeding en Sport</li>
+                    <li>Master in de Revalidatiewetenschappen en Kinesitherapie</li>
+                    <li>Manuele Therapie</li>
+                    <li>Personal training & small group training</li>
+                    <li>(Individuele) loopbegeleiding</li>
+                </ul>
             </div>
 
         </div>

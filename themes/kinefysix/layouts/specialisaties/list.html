@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="featured-image-container">
+    <img class="featured-image" src="{{.Params.featured_image}}" alt="">
+</div>
+<div class="container mt-2">
+    <h1 class="floating-header">{{.Title}}</h1>
+    <div class="row">
+        <p>{{.Content}}</p>
+        {{ range .Data.Pages }}
+        <div class="col-md-4 p-2">
+            <a href="{{ .URL }}" class="card card-min-height text-white bg-dark mb-3">
+                <div class="card-body">
+                    <h4 class="card-title">{{.Title}}</h4>
+                    <p class="card-text">{{.Content}}</p>
+                </div>
+            </a>
+        </div>
+        {{ end }}
+    </div>
+
+</div>
+{{ end }}

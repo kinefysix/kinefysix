@@ -1,6 +1,10 @@
 ---
-title: "Home"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+title: 'Home'
+featured_image: ''
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Fysix werd opgestart om vanuit de kinésitherapie de mensen actief beter te maken. Door de bijhorende fitness en oefenzaal beschikken we over een uitgelezen accommodatie om de juiste oefentherapie voor iedere aandoening te kunnen toepassen.
+
+
+Fysix biedt door de steeds bijscholende kinesiten een gespecialiseerde en geactualiseerde kinesitherapie en preventie aan in een nieuwe praktijk met moderne apparatuur. 
+
+Bij FysiX kan je terecht voor een optimale begeleiding in revalidatie na een acuut of chronisch lichamelijk probleem.  Door de ruime mogelijkheden in accommodatie kan optimaal gewerkt worden aan herstel door het toepassen van wetenschappelijk onderbouwde behandelingstechnieken in het domein van de algemene revalidatie maar ook specifieke manuele technieken, sportkinesitherapie en optimale bewegingsbegeleiding in kleine groepen. 
