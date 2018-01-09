@@ -17,9 +17,10 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  description = "The last theme you'll ever need. Maybe."
+  env = "production"
+  description = ""
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = ""
   youtube = ""
   github = ""
