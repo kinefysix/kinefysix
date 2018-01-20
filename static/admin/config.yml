@@ -2,29 +2,43 @@ backend:
   name: git-gateway
   branch: master
 
-media_folder: "static/images" # Media files will be stored in the repo under static/images
+media_folder: "/static/images" # Media files will be stored in the repo under static/images
 public_folder: "/images" # The src attribute for uploaded media will begin with /images
 
 collections:
   - name: "medewerkers"
     label: "Medewerkers"
     folder: "content/medewerkers" # The path to the folder where the documents are stored
+    extension: "md"
+    format: "frontmatter"
     create: false # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Naam", name: "name", widget: "string"}
       - {label: "Telefoon", name: "phone", widget: "datetime"}
       - {label: "Studies", name: "studies", widget: "list"}
-      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
       - {label: "Inhoud", name: "body", widget: "markdown"}
 
   - name: "specialisaties" # Used in routes, e.g., /admin/collections/blog
     label: "Specialisaties" # Used in the UI
     folder: "content/specialisaties" # The path to the folder where the documents are stored
+    extension: "md"
+    format: "frontmatter"
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Afbeelding", name: "featured_image", widget: "image"}
+      - {label: "Afbeelding", name: "featured_image", widget: "image", required: "false"}
       - {label: "Volgorde", name: "weight", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - label: "Home"
+    name: "home"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "content/_index.md"
+        fields:
+          - {label: Title, name: title, widget: hidden}
+          - {label: Afbeelding, name: featured_image, widget: hidden}
+          - {label: Welkomstekst, name: body, widget: markdown}
