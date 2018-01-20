@@ -1,7 +1,6 @@
 title = "Kinefysix"
 baseURL = "http://kinefysix.be"
 languageCode = "en-us"
-theme = "kinefysix"
 
 
 MetaDataFormat = "yaml"
