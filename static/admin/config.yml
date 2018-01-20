@@ -1,0 +1,16 @@
+backend:
+  name: git-gateway
+  branch: master
+
+collections:
+  - name: "medewerkers"
+    label: "Medewerkers"
+    folder: "content/medewerkers" # The path to the folder where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Naam", name: "name", widget: "string"}
+      - {label: "Telefoon", name: "phone", widget: "datetime"}
+      - {label: "Studies", name: "studies", widget: "list"}
+      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
+      - {label: "Inhoud", name: "body", widget: "markdown"}
