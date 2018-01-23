@@ -162,9 +162,6 @@ a, a:active, a:focus, a:hover {
     margin-bottom: 20px;
 }
 
-.single-page-content .content {
-    float: left;
-}
 
 .single-page-content .content-image {
     max-width: 300px;
