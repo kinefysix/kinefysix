@@ -32,10 +32,10 @@ collections:
       - {label: "Volgorde", name: "weight", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - label: "Home"
+  - label: "Hoofdpagina"
     name: "home"
     files:
-      - label: "Home"
+      - label: "Welkomstekst"
         name: "home"
         file: "content/_index.md"
         fields:
