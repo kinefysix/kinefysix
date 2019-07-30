@@ -15,7 +15,7 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Naam", name: "name", widget: "string"}
-      - {label: "Telefoon", name: "phone", widget: "string", required: "false"}
+      - {label: "Telefoon", name: "phone", widget: "string", required: false}
       - {label: "Inhoud", name: "body", widget: "markdown"}
       - {label: "Afbeelding", name: "profile_picture", widget: "image", media_library: {config: {multiple: true}}}
 
@@ -28,7 +28,7 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Afbeelding", name: "featured_image", widget: "image", required: "false"}
+      - {label: "Afbeelding", name: "featured_image", widget: "image", required: false}
       - {label: "Volgorde", name: "weight", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
 
