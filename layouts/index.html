@@ -45,7 +45,11 @@
             <div class="col text-center">
                 <img class="rounded-circle mb-3" src="{{ .Params.profile_picture }}" alt="" width="220" height="220">
                 <h2>{{ .Params.name }}</h2>
-                <p><span class="fa fa-phone icon mr-2"></span> <a href="tel:0472-69-23-17" class="text-success">{{ .Params.phone }}</a></p>
+
+                {{ if .Params.phone }}
+                <p><span class="fa fa-phone icon mr-2"></span> <a href="tel:{{ .Params.phone }}" class="text-success">{{ .Params.phone }}</a></p>
+                {{ end }}
+
                 <p>{{ .Content }}</p>
 
                 <ul>
