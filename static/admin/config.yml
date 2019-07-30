@@ -15,7 +15,7 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Naam", name: "name", widget: "string"}
-      - {label: "Telefoon", name: "phone", widget: "datetime"}
+      - {label: "Telefoon", name: "phone", widget: "string"}
       - {label: "Studies", name: "studies", widget: "list"}
       - {label: "Inhoud", name: "body", widget: "markdown"}
       - {label: "Afbeelding", name: "profile_picture", widget: "image", media_library: {config: {multiple: true}}}
