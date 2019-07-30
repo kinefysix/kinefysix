@@ -18,6 +18,7 @@ collections:
       - {label: "Telefoon", name: "phone", widget: "datetime"}
       - {label: "Studies", name: "studies", widget: "list"}
       - {label: "Inhoud", name: "body", widget: "markdown"}
+      - {label: "Afbeelding", name: "profile_picture", widget: "image", media_library: {config: {multiple: true}}}
 
   - name: "specialisaties" # Used in routes, e.g., /admin/collections/blog
     label: "Specialisaties" # Used in the UI
