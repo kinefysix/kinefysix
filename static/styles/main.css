@@ -172,6 +172,7 @@ a, a:active, a:focus, a:hover {
 }
 
 #overons ul {
+    padding-left: 20px;
     text-align: left;
 }
 
