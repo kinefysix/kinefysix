@@ -10,3 +10,5 @@ Als sportkinesitherapeut en manueel therapeut kan je bij mij terecht voor herste
 * Complex Core: Therapy and Training (2016 en 2017, KU Leuven)
 * Manuele therapie (2019, KU Leuven)
 * Dry Needling (2019, Leuven)
+* Loopanalyse & loop re-educatie (Toekomstig)
+* Neurodynamica (Toekomstig)
