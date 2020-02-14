@@ -7,7 +7,7 @@ Als sportkinesitherapeut en manueel therapeut kan je bij mij terecht voor herste
 
 * Master in de revalidatiewetenschappen en kinesitherapie, afstudeerrichting musculoskeletale aandoeningen en sportkinesitherapie (2018, KU Leuven)
 * Sporttaping (2016, Hasselt)
-* Complex Core: Therapy and Training (2016 en 2017, KU Leuven)
+* Complex Core: Therapy and Training (2016 & 2017, KU Leuven)
 * Manuele therapie (2019, KU Leuven)
 * Dry Needling (2019, Leuven)
 * Loopanalyse & loop re-educatie (Toekomstig)
