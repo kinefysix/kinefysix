@@ -10,12 +10,10 @@ Als sportkinesitherapeut en manueel therapeut sta ik in voor de revalidatie en b
 * Manuele therapie
 * Dry needling (zie uitleg hierboven)
 * Loopblessure's en begeleiding/screening van lopers 
-* Advies sportvoeding voor duursporters
 
 **Opleidingen en bijscholingen:**
 
 * Master in de revalidatiewetenschappen en kinesitherapie, afstudeerrichting musculoskeletale aandoeningen en sportkinesitherapie (2018, KU Leuven)
 * Manuele therapie (2019, KU Leuven)
 * Dry Needling (2019, Smarteducation)
-* De sportvoedingsformule voor duursporters (2020, Stephanie Scheirlynck)
 * Running related injuries: key points in rehab (2020, Smarteducation)
