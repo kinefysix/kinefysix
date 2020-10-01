@@ -16,4 +16,5 @@ Als sportkinesitherapeut en manueel therapeut sta ik in voor de revalidatie van 
 * Master in de revalidatiewetenschappen en kinesitherapie, afstudeerrichting musculoskeletale aandoeningen en sportkinesitherapie (2018, KU Leuven)
 * Manuele therapie (2019, KU Leuven)
 * Dry Needling (2019, Smarteducation)
-* Running related injuries: key points in rehab (2020, Smarteducation)
+* Running related injuries: key points in rehab (2020, RunningSmart)
+* Analysing running technique & running re-education (2020, RunningSmart)
