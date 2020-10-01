@@ -9,7 +9,7 @@ Als sportkinesitherapeut en manueel therapeut sta ik in voor de revalidatie van 
 
 * Manuele therapie
 * Dry needling (zie uitleg hierboven)
-* Loopblessure's en begeleiding/screening van lopers 
+* Loopblessure's en screening/begeleiding van lopers 
 
 **Opleidingen en bijscholingen:**
 
