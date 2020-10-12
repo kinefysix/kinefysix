@@ -3,7 +3,7 @@ name: Brecht Scheepers
 phone: 0496 30 70 66
 profile_picture: /images/img_2952-2.jpg
 ---
-Als sportkinesitherapeut en manueel therapeut sta ik in voor de revalidatie van een heel brede groep patiënten. Je kan bij mij terecht voor pre- en postoperatieve revalidatie, aandoeningen van de wervelkolom en extremiteiten, preventie en behandeling van sportletsels, chronische/complexe pijnproblemen, shockwave therapie en dry needling.
+Als sportkinesitherapeut en manueel therapeut sta ik in voor de revalidatie van een brede groep patiënten. Je kan bij mij terecht voor pre- en postoperatieve revalidatie, aandoeningen van de wervelkolom en extremiteiten, preventie en behandeling van sportletsels, chronische/complexe pijnproblemen, shockwave therapie en dry needling. Via bijscholingen op regelmatige basis probeer ik u revalidatie zo up-to-date mogelijk te houden!
 
 **Specialisaties:**
 
