@@ -8,4 +8,4 @@ FysiX biedt door de steeds bijscholende kinesitherapeuten een gespecialiseerde e
 
 Bij FysiX kan u terecht voor een optimale begeleiding in revalidatie na een acuut of chronisch lichamelijk probleem.  Door de ruime mogelijkheden in accommodatie kan optimaal gewerkt worden aan herstel door het toepassen van wetenschappelijk onderbouwde behandelingstechnieken in het domein van de algemene kinesitherapie maar ook specifieke manuele technieken, sportkinesitherapie en optimale bewegingsbegeleiding in kleine groepen.
 
-Onze therapeuten zijn geconventioneerd. Dit wil zeggen dat wij ons houden aan de tarieven opgelegd door het RIZIV en u dus een maximale terugbetaling geniet..
+Onze therapeuten zijn geconventioneerd. Dit wil zeggen dat wij ons houden aan de tarieven opgelegd door het RIZIV en u dus een maximale terugbetaling geniet.
