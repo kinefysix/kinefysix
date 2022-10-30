@@ -11,8 +11,8 @@ Als kinesitherapeut met specialisatie in sport alsook manueel therapeut kan je b
 
 **Specialisaties en bijscholing;**
 
-* manuele therapie
-* dry needling
+* manuele therapie (2020)
+* dry needling (2020)
 * sportscreening & -revalidatie: voetbal, atletiek
 * looptechnische screening
 * c﻿ursus sporttaping en elastisch tapen (2018)
