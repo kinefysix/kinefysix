@@ -12,5 +12,7 @@ Als sportkinesitherapeut en manueel therapeut sta ik in voor de revalidatie van 
 * Dry needling (2021, Dry Needling Gent)
 
   **Specialisaties en bijscholing:**
+
+
 * Manuele therapie (2020, UAntwerpen)
 * Dry needling (2021, Dry Needling Gent)
