@@ -9,7 +9,7 @@ Als kinesitherapeut met specialisatie in sport alsook manueel therapeut kan je b
 
 * Master in de revalidatiewetenschappen en kinesitherapie, afstudeerrichting musculoskeletale aandoeningen en sportkinesitherapie (2019, UHasselt)
 
-**Specialisaties en bijscholing;**
+**Specialisaties en bijscholing:**
 
 * manuele therapie (2020)
 * dry needling (2020)
