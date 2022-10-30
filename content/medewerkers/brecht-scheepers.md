@@ -10,7 +10,6 @@ Als sportkinesitherapeut en manueel therapeut sta ik in voor de revalidatie van 
 * Master in de revalidatiewetenschappen en kinesitherapie, afstudeerrichting musculoskeletale aandoeningen en sportkinesitherapie (2018, KU Leuven)
 * Manuele therapie (2019, KU Leuven
 * Dry needling  (2019, Smarteducation)(zie uitleg hierboven)
-* Dry Needling (2019, Smarteducation)
 
 **Specialisaties en bijscholing:**
 
