@@ -5,7 +5,7 @@ profile_picture: /images/laura.jpg
 ---
 Als sportkinesitherapeut en manueel therapeut sta ik in voor de revalidatie van zowel sportletsels als niet sport-gerelateerde aandoeningen. Zo kan je bij mij terecht voor de revalidatie van chronische aandoeningen, pre- en postoperatieve kinesitherapie, functionele training en de behandeling van aandoeningen aan de wervelkolom. Graag help ik u verder in het optimaliseren van uw lichamelijk functioneren!
 
- **Opleidingen:** 
+ **Opleiding:** 
 
 * Master in de revalidatiewetenschappen en kinesitherapie, afstudeerrichting musculoskeletale aandoeningen en sportkinesitherapie (2019, UHasselt)
 * Manuele therapie (2020, UAntwerpen)
