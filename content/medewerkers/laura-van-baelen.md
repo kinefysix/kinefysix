@@ -10,3 +10,5 @@ Als sportkinesitherapeut en manueel therapeut sta ik in voor de revalidatie van 
 * Master in de revalidatiewetenschappen en kinesitherapie, afstudeerrichting musculoskeletale aandoeningen en sportkinesitherapie (2019, UHasselt)
 * Manuele therapie (2020, UAntwerpen)
 * Dry needling (2021, Dry Needling Gent)
+* Manuele therapie (2020, UAntwerpen)
+* Dry needling (2021, Dry Needling Gent)
