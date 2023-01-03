@@ -3,18 +3,20 @@ name: Brecht Scheepers
 phone: 0496 30 70 66
 profile_picture: /images/img_2952-2.jpg
 ---
-Als sportkinesitherapeut en manueel therapeut sta ik in voor de revalidatie van een brede groep patiënten. Je kan bij mij terecht voor pre- en postoperatieve revalidatie, aandoeningen van de wervelkolom en extremiteiten, preventie en behandeling van sportletsels, chronische/complexe pijnproblemen, shockwave therapie en dry needling. Via bijscholingen op regelmatige basis probeer ik u revalidatie zo up-to-date mogelijk te houden!
+Als sportkinesitherapeut en manueel therapeut sta ik in voor de revalidatie van een brede groep patiënten en bekijk ik klachten/blessure's vanuit het volledige lichaam. Na heel wat bijscholingen heb ik het meeste ervaring met lage rugklachten (met of zonder uitstraling naar het been), schouderklachten, voet/enkelklachten, loopgerelateerde klachten/loopbegeleiding. Verder maak ik ook gebruik van dry needling en shockwave therapie.
 
 **Opleiding:**
 
 * Master in de revalidatiewetenschappen en kinesitherapie, afstudeerrichting musculoskeletale aandoeningen en sportkinesitherapie (2018, KU Leuven)
-* Manuele therapie (2019, KU Leuven)
-* Dry needling  (2019, Smarteducation)(zie uitleg hierboven)
 
 **Specialisaties en bijscholing:**
 
 * Manuele therapie (2019, KU Leuven)
 * Dry Needling (2019, Smarteducation)
-* Running related injuries (2020, RunningSmart)
-* Loopblessure’s en screening/begeleiding van lopers
-* Analysing running technique & running re-education (2020, RunningSmart)
+* Loopblessure’s en screening/begeleiding van lopers (2020, Smarteducation)
+* Loopanalyse en looptechnische training/revalidatie (2020, Smarteducation)
+* Neurodynamics (zenuwpathologie) (2021, Smarteducation)
+* Masterclass schouderpijn (2021, Smarteducation)
+* The sporting foot and ankle (2022, Smarteducation)
+* Barefoot training specialist (2022, Barefoot Belgium)
+* MDT/McKenzie therapie: Lage rugpijn (2022, McKenzie Institute Belgium)
