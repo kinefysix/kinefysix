@@ -18,5 +18,5 @@ Als sportkinesitherapeut en manueel therapeut sta ik in voor de revalidatie van 
 * Neurodynamics (zenuwpathologie) (2021, Smarteducation)
 * Masterclass schouderpijn (2021, Smarteducation)
 * The sporting foot and ankle (2022, Smarteducation)
-* Barefoot training specialist (2022, Barefoot Belgium)
+* Level 1 Barefoot training specialist (2022, EBFA-Barefoot Belgium)
 * MDT/McKenzie therapie: Lage rugpijn (2022, McKenzie Institute Belgium)
